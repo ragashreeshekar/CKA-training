@@ -1,0 +1,1 @@
+This folder consists of Kubernetes cluster upgrade concepts
