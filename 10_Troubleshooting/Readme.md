@@ -1,0 +1,1 @@
+This folder consists of Kubernetes troubleshooting concepts
